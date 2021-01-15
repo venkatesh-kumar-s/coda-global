@@ -1,1 +1,6 @@
-https://coda-global-f3566.web.app/
+/**
+
+* Firebase Hosted Live Project Url: https://coda-global-f3566.web.app/
+* Github Url: https://github.com/venkatesh-kumar-s/coda-global
+
+**/
